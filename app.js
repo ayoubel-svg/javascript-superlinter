@@ -1,2 +1,2 @@
 const name = 'ayoub'
-console.log(name
+console.log(name)
