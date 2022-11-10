@@ -1,7 +1,7 @@
-const name = "ayoub"
-console.log(name)
+const name = "ayoub";
+console.log(name);
 
-const a = null
-const b = 4
+const a = 2 ;
+const b = 4 ;
 
-console.log(a+b)
+console.log(a + b);
